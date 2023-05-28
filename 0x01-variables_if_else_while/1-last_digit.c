@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints the last digit of a rondomly generated number and whether it is greater thsn 5, less than 6, or 0.
+ * main - Prints the last digit of a rondomly generated number
  *
- * Return Always 0 (sucess)
+ * Return: Always 0 (sucess)
  *
  */
 int main(void)
